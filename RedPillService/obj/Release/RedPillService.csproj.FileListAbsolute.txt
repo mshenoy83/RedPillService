@@ -1,0 +1,5 @@
+C:\Users\Madhav\Documents\Visual Studio 2012\Projects\RedPillService\RedPillService\bin\RedPillService.dll
+C:\Users\Madhav\Documents\Visual Studio 2012\Projects\RedPillService\RedPillService\bin\RedPillService.pdb
+C:\Users\Madhav\Documents\Visual Studio 2012\Projects\RedPillService\RedPillService\obj\Release\RedPillService.csprojResolveAssemblyReference.cache
+C:\Users\Madhav\Documents\Visual Studio 2012\Projects\RedPillService\RedPillService\obj\Release\RedPillService.dll
+C:\Users\Madhav\Documents\Visual Studio 2012\Projects\RedPillService\RedPillService\obj\Release\RedPillService.pdb
